@@ -23,10 +23,10 @@ app.use(
 
 const pool = new Pool({
   
-  user: 'mgaflcfapoqtxe',
-  host: 'ec2-34-254-69-72.eu-west-1.compute.amazonaws.com',
-  database: 'dciob6944j740b',
-  password: 'f5e080ba4f5521c34232cba95d8e8466c24fcfbb7c785a39e2aa6e9dfbc21e8f',
+  user: 'mzvruebchhmeij',
+  host: 'ec2-54-225-214-37.compute-1.amazonaws.com',
+  database: 'd6neapffcb6jah',
+  password: '8826d340371d2dc3f4d4f0dc4e4ba9586ee3434cdb8112f07407897987cc6ab1',
   port: 5432,
 })
 
